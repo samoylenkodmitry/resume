@@ -1,6 +1,6 @@
 # Dmitry Samoylenko
 **Android Developer | Kotlin, Jetpack Compose**  
-**Email**: cv@dmitrysamoylenko.in  
+**Email**: cvgithub@dmitrysamoylenko.in  
 **LinkedIn**: [https://www.linkedin.com/in/dmitrysamoylenko/](https://www.linkedin.com/in/dmitrysamoylenko/)  
 **GitHub**: [https://github.com/samoylenkodmitry](https://github.com/samoylenkodmitry)
 

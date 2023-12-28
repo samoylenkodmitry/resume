@@ -57,7 +57,6 @@ Senior Android Engineer with 9+ years of expertise in Android Development, Jetpa
 - Kotlin Coroutines, MVVM, Data Binding, Gradle, Android Jetpack
 - Android Studio, Git
 
----
 
 ## Languages
 - **English**: Professional working proficiency

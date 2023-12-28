@@ -9,7 +9,6 @@
 ## About
 Senior Android Engineer with 9+ years of expertise in Android Development, Jetpack Compose, Kotlin, Java, and RxJava. Skilled in building high-quality applications and leading developments in Android project architecture.
 
----
 
 ## Experience
 
@@ -35,7 +34,6 @@ Senior Android Engineer with 9+ years of expertise in Android Development, Jetpa
 - Developed features, fixed bugs, and solved complex issues.
 - Assisted and reviewed code for remote team members.
 
----
 
 ## Education
 
@@ -43,7 +41,6 @@ Senior Android Engineer with 9+ years of expertise in Android Development, Jetpa
 **Master of Engineering - MEng, Aerospace, Aeronautical and Astronautical Engineering**  
 *2005 - 2011*
 
----
 
 ## Licenses & Certifications
 - **Problem Solving (Basic) Certificate**, HackerRank, Issued May 2020  
@@ -51,7 +48,6 @@ Senior Android Engineer with 9+ years of expertise in Android Development, Jetpa
 - **Oracle Certified Professional, Java SE 7 Programmer**, Oracle, Issued Sep 2013  
   [https://www.youracclaim.com/badges/9e46c0f8-3882-4184-9593-ab3deb21cd13/linked_in_profile](https://www.youracclaim.com/badges/9e46c0f8-3882-4184-9593-ab3deb21cd13/linked_in_profile)
 
----
 
 ## Skills
 - Kotlin, Jetpack Compose, Java, RxJava
